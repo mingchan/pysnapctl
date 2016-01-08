@@ -1,2 +1,2 @@
-# pysnapctl
-Python library for snapctl
+# snappy
+Python cleint/library for snap
