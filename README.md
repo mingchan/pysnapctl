@@ -1,2 +1,2 @@
 # snappy
-Python cleint/library for snap
+Python client/library for snap
